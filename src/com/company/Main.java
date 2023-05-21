@@ -11,6 +11,7 @@ public class Main {
 
         CourseInstance courseInstance1 = new CourseInstance("Programing with Java",800,teacher1);
         courseInstance1.enroll(student1);
+        System.out.println("Test");
 
 
 
